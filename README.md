@@ -1,5 +1,6 @@
 # MicroProjects
-Contains MicroProjects I implement during leisure, indexed in this repository to showcase on LinkedIn
+Contains MicroProjects I implement during leisure, indexed in this repository with a brief description
+Each repo contains a detailed readme.md about each project
 
 ## 1. [NPTEL Download Automation](https://github.com/chttrjeankr/NPTEL_Download_Automation)
 > Automating the boring stuff of downloading all or any videos of any NPTEL course from www.nptel.ac.in
